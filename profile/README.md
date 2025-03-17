@@ -1,6 +1,6 @@
 # Standard Schema Community 🔥
 
-Unnofficial Standard Schema libraries, examples, and repositories by the community for the community 🧡
+Unofficial Standard Schema libraries, examples, and repositories by the community for the community 🧡
 
 ## Libraries
 
